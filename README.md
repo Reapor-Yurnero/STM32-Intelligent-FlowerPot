@@ -14,7 +14,7 @@ Here's a screenshot of the website (the source code will be uploaded in the futu
 
 ## Demo Video
 
-https://youtu.be/I-zIkehWDfY
+https://youtu.be/kpF8qIRHA3w
 
 ## List of Sensors and Actuators
 
